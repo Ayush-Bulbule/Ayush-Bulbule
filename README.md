@@ -26,7 +26,7 @@
 <!-- skill icons -->
 <p align="center">
   <a href="https://ayushb.me" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,figma,js,ts,react,nodejs,express,python,django,fastapi,tailwindcss,bootstrap,mui,md,scss,next,vercel,netlify,mongodb,mysql,postgresql,firebase,prisma,docker,kubernetes,gcp,aws,azure,java,kotlin,babel,bash,dart,flutter,redis,redux,qt,pug,ruby,rails,php,jquery,heroku,git,github,postman,vscode,regex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,figma,js,ts,react,nodejs,express,python,django,fastapi,tailwindcss,bootstrap,mui,md,scss,next,vercel,netlify,mongodb,mysql,postgresql,firebase,prisma,docker,kubernetes,gcp,aws,azure,java,kotlin,babel,bash,dart,flutter,redis,redux,qt,pug,ruby,rails,php,jquery,heroku,git,github,postman,vscode,regex&perline=16" />
   </a>
 </p>
 
