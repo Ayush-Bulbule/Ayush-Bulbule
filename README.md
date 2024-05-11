@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Hi, I'm Ayush Bulbule 👋</h1>
   <!-- Rest of your content -->
 
