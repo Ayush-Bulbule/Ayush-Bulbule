@@ -1,38 +1,42 @@
 <div align="center">
   <h2>Hi, I'm Ayush Bulbule 👋</h2>
-  <!-- Rest of your content -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&random=false&width=435&lines=Fullstack+Web+Developer;Cloud+and+DevOps+Enthusiast;Mobile+App+Developer;Distributed+Systems)](https://git.io/typing-svg)
+  **Software Engineer at a cloud security startup**
 
-**I'm a Computer Engineering Undergrad and Fullstack Developer.**
+  [Portfolio](https://ayushb.me) • [Medium](https://medium.com/@ayushbulbule) • [Hashnode](https://hashnode.com/@ayushbulbule) • [X (Twitter)](https://x.com/ayush_bulbule)
+</div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="200">
+### ☕ These days
+- 🛠️ Building cloud security products and AI-powered systems.
+- 🧠 Reading more code than writing it —  reviewing, understanding, and steering AI-generated changes matters more than typing net-new lines right now.
+- 📚 Learning whatever helps me build better software — from distributed systems to security and AI.
+- ✍️ Writing things future me shouldn't have to learn twice.
+- ✈️ Planning my next trip while CI is running.
+
+### 🧩 I enjoy building
+- Secure products
+- Developer tools
+- Internal platforms
+- AI-powered workflows
+- Interfaces people actually enjoy using — my favorite, I love good UI
 
 
-[Portfolio](https://ayushb.me)
-
-<!-- Github profile visits -->
-
-<img src="https://komarev.com/ghpvc/?username=ayush-bulbule&color=brightgreen" alt="watching_count" />
-
-
-<!-- Github stats -->
-
-![Ayush-Bulbule's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Bulbule&theme=vision-friendly-dark&hide_border=true)
-
-<!-- Tools and Technologies -->
-
-### Tools and Technologies
-
-<!-- skill icons -->
-<p align="center">
-  <a href="https://ayushb.me" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,figma,js,ts,react,nodejs,express,go,vue,python,django,fastapi,tailwindcss,bootstrap,mui,md,scss,next,vercel,netlify,mongodb,mysql,postgresql,firebase,prisma,docker,kubernetes,gcp,aws,azure,java,kotlin,babel,bash,dart,flutter,redis,redux,qt,pug,ruby,rails,php,jquery,heroku,git,github,postman,vscode,regex&perline=18" />
-  </a>
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,css,tailwind,react,nextjs,express,nest,redis,mongo,ruby,rails,postgres,prisma,docker,kubernetes,go,aws" />
 </p>
 
 
-<!-- Contribution graph -->
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Bulbule&bg_color=000000&color=0284c7&line=2563eb&point=0ea5e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ✍️ Latest Writing
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</div>
+### 🌍 When I'm not coding
+- Exploring cafés
+- Planning a trip
+- Reading engineering blogs
+- Pretending one more side project is a good idea
+
+### 📊 GitHub Stats
+
+[View my live contributions graph](https://github.com/Ayush-Bulbule)

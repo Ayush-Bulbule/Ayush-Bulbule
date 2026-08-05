@@ -1,0 +1,16 @@
+name: Update README with latest blog posts
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@ayushbulbule,https://ayushbulbule.hashnode.dev/rss.xml"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts in README [skip ci]"
