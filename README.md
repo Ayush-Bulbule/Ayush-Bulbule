@@ -41,7 +41,3 @@
 - Planning a trip
 - Reading engineering blogs
 - Pretending one more side project is a good idea
-
-### 📊 GitHub Stats
-
-[View my live contributions graph](https://github.com/Ayush-Bulbule)
